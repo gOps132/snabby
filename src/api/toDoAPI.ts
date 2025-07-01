@@ -2,7 +2,6 @@
 const API_BASE = '/api';
 
 // TODO: add some error handling lmao
-//
 export type ToDo = {
     id: number
     title: string
